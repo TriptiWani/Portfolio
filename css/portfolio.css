@@ -99,12 +99,13 @@ h3{
   background-size: cover;
 }
 .works{
-  background-image: url(../images/colorful.png);
+  background-image: url(../images/int1.jpg);
   text-align: center;
   background-size: cover;
   min-height: 100%;
-  padding-top: 20%;
+  padding-top: 15%;
   padding-bottom: 5%;
+  margin-bottom: 10%;
 }
 .movingfeather  {
   text-align: center;
